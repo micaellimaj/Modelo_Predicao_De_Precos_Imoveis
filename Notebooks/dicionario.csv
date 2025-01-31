@@ -1,0 +1,17 @@
+variavel,descricao,tipo,subtipo
+id,Identificador Único,quantitativa,discreta
+nome,Título do anúncio,qualitativa,nominal
+host_id,Identificador Único do anfitrião,quantitativa,discreta
+host_name,nome do anfitrião,qualitativa,nominal
+bairro_group,grupo ou região do bairro onde o imóvel está localizado,qualitativa,nominal
+bairro,Nome do bairro onde o imóvel está localizado,quantitativa,contínua
+latitude,coordenada geográfica de latitude do imóvel,quantitativa,contínua
+longitude,coordenada geográfica de longitude do imóvel,quantitativa,contínua
+room_type,Tipo de acomodação,qualitativa,nominal
+price,Preço por noite em dólares,quantitativa,contínua
+minimo_noites,Número mínimo de noites exigido para reserva,quantitativa,discreta
+numero_de_reviews,Número total de avaliações do anúncio,quantitativa,discreta
+ultima_review,Data da última avaliação recebida,qualitativa,ordinal
+reviews_por_mes,Média de avaliações recebidas por mês,quantitativa,contínua
+calculado_host_listings_count,quantidade de anúncios ativos do anfitrião,quantitativa,discreta
+disponibilidade_365,Número de dias disponíveis para reserva no ano,quantitativa,discreta
