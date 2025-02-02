@@ -10,5 +10,6 @@ Esse projeto traz dados sobre aluguéis de Imóveis em Nova York com o objetivo 
 
 Alocação para um time que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York. Para o desenvolvimento de sua estratégia de precificação, pediu para que fizesse uma análise exploratória dos dados de seu maior concorrente, assim como um teste de validação de um modelo preditivo.
 
-![imovel](Imagens/imovel.gif)
-
+<div style="text-align: center;">
+  <img src="Imagens/imovel.gif" alt="imovel">
+</div>
