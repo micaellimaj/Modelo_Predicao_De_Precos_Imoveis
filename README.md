@@ -6,6 +6,11 @@
 
 Esse projeto traz dados sobre aluguéis de Imóveis em Nova York com o objetivo principal de criar um modelo de predição de preço. Os dados atrás diferentes atributos que impactam no preço dos imóveis, e com esses dados foi passado por etapas de pré-processamento de dados , análise exploratória e criação de modelos preditivos (regressão, classificação e agrupamento) para geração de insights.
 
+## 💡 Estrutura:
+
+![estrutura_projeto](Imagens/Estrutura_projeto_price.gif)
+
+
 ## 🕵🏾‍♂️ Justificativa:
 
 Alocação para um time que está trabalhando atualmente junto a um cliente no processo de criação de uma plataforma de aluguéis temporários na cidade de Nova York. Para o desenvolvimento de sua estratégia de precificação, pediu para que fizesse uma análise exploratória dos dados de seu maior concorrente, assim como um teste de validação de um modelo preditivo.
@@ -70,6 +75,26 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
     * **Modelos de Classificação**: Diferentes modelos de Classificação (LogisticRegression, KNeighborsClassifier) são treinados, avaliados e udados para fazer predição. São calculados métricas como precisão, recall, F1-score.
     * **Modelo de Agrupamento**: Uso do K-Médias para agrupar os dados ao seu grupo mais próximo e identificação do perfil dos dados.Uso do método do cotovelo, centroídes e estudo de clusters.
     * **Insights**: Resumo dos insights gerados durante a desenvolvimento dos modelos.
+
+## 🗂️ Diretórios:
+
+```
+.
+├── data/              # Diretório contendo todos os arquivos de dados
+│
+├── Imagens/           # Contém imagens e gifs utilizados no readme
+│
+├── docs/              # Documentação do projeto
+│
+├── models/            # Modelos treinados e serializados, predições ou resumos de modelos
+│
+├── notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
+│
+├── README.md          # Informações gerais do projeto
+│
+└── riqueriments.txt
+
+```
 
 ## 🛑 Conclusão:
 
