@@ -76,6 +76,26 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
     * **Modelo de Agrupamento**: Uso do K-Médias para agrupar os dados ao seu grupo mais próximo e identificação do perfil dos dados.Uso do método do cotovelo, centroídes e estudo de clusters.
     * **Insights**: Resumo dos insights gerados durante a desenvolvimento dos modelos.
 
+## 🗂️ Diretórios:
+
+```
+.
+├── data/              # Diretório contendo todos os arquivos de dados
+│
+├── Imagens/           # Contém imagens e gifs utilizados no readme
+│
+├── docs/              # Documentação do projeto
+│
+├── models/            # Modelos treinados e serializados, predições ou resumos de modelos
+│
+├── notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
+│
+├── README.md          # Informações gerais do projeto
+│
+└── riqueriments.txt
+
+```
+
 ## 🛑 Conclusão:
 
 Este projeto passou por etapas fundamentais e comuns na área de ciências de dados, em que foi necessário passar por etapas de processamento, modelagem e análise exploratória de dados. E com base nessas etapas foi possível a criação de modelos de Machine e geração de insights, ajudando a tomar decisões mais informadas e acertivas na criação da plataforma de aluguéis.
