@@ -6,7 +6,7 @@
 
 Esse projeto traz dados sobre aluguéis de Imóveis em Nova York com o objetivo principal de criar um modelo de predição de preço. Os dados atrás diferentes atributos que impactam no preço dos imóveis, e com esses dados foi passado por etapas de pré-processamento de dados , análise exploratória e criação de modelos preditivos (regressão, classificação e agrupamento) para geração de insights.
 
-## 💡 Estrutura:
+## 💡 Estrutura do Projeto:
 
 ![estrutura_projeto](Imagens/Estrutura_projeto_price.gif)
 
@@ -19,7 +19,7 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
     <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYxcmxpMjQxbzVuZ3psbGNxNWN5anBjNTR5aDFma3F0dWpvMnhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sdT5XG0EAqUuGi0UJZ/giphy.gif" />
 </p>
 
-## 🪄 Tecnologias:
+## 🪄 Tecnologias Utilizadas:
 
 <div align="center" style="display: inline_block">
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -34,7 +34,7 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
 <img align="center" src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="icon plotly">
 </div>
 
-## 📋 Atributos: 
+## 📋 Atributos do Dataset: 
 
 | **Variável**                  | **Descrição**                                             | **Tipo**         | **Subtipo**       |
 |-------------------------------|-----------------------------------------------------------|------------------|-------------------|
@@ -76,7 +76,7 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
     * **Modelo de Agrupamento**: Uso do K-Médias para agrupar os dados ao seu grupo mais próximo e identificação do perfil dos dados.Uso do método do cotovelo, centroídes e estudo de clusters.
     * **Insights**: Resumo dos insights gerados durante o desenvolvimento dos modelos e sugestão de melhorias.
 
-## 🗂️ Diretórios:
+## 🗂️ Organização dos Diretórios:
 
 ```
 .
@@ -95,6 +95,48 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
 └── riqueriments.txt   # Arquivo com as bibliotecas python utilizadas
 
 ```
+
+## 📦 Como Instalar e Executar o Projeto:
+
+1. **Pré-requisitos**:
+    * Antes de iniciar, certifique-se de ter instalado:
+    * Python (versão 3.8 ou superior)
+    * Jupyter Notebook ou Google Colab
+    * Git
+  
+2. **Clonando o repositório**:
+* Abra o terminal e execute:
+     
+```
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+* Criando um ambiente virtual (Caso necessário):
+
+```
+python -m venv venv
+source venv/bin/activate  # Para Linux/macOS
+venv\Scripts\activate  # Para Windows
+```
+* Instalando as dependências:
+ ```
+pip install -r requirements.txt
+```
+* Executando o projeto:
+  * Abra o Jupyter notebook:
+```
+jupyter notebook
+```
+  * Navegue até o diretório "notebooks" e abra os arquivos do projeto para execução.
+
+
+     
+
+
+     
+
+
 
 ## 🛑 Conclusão:
 
