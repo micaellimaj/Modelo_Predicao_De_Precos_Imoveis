@@ -86,13 +86,13 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
 │
 ├── documentos/        # Apresentação de slides e gráficos do projeto
 │
-├── models/            # Modelos treinados e serializados, predições ou resumos de modelos
+├── modelos/            # Modelos treinados e serializados, predições ou resumos de modelos
 │
-├── notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
+├── Notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
 │
 ├── README.md          # Informações gerais do projeto
 │
-└── riqueriments.txt   # Arquivo com as bibliotecas python utilizadas
+└── requirements.txt   # Arquivo com as bibliotecas python utilizadas
 
 ```
 
