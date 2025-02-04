@@ -108,8 +108,8 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
 * Abra o terminal e execute:
      
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/micaellimaj/Modelo_Predicao_De_Precos_Imoveis
+cd Modelo_Predicao_De_Precos_Imoveis
 ```
 
 * Criando um ambiente virtual (Caso necessário):
