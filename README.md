@@ -86,9 +86,9 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
 │
 ├── documentos/        # Apresentação de slides e gráficos do projeto
 │
-├── modelos/            # Modelos treinados e serializados, predições ou resumos de modelos
+├── modelos/           # Modelos treinados e serializados, predições ou resumos de modelos
 │
-├── Notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
+├── Notebooks/         # Diretório contendo todos os notebooks utilizados no projeto
 │
 ├── README.md          # Informações gerais do projeto
 │
