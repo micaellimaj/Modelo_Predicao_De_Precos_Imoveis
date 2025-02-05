@@ -73,7 +73,7 @@ Alocação para um time que está trabalhando atualmente junto a um cliente no p
     * **Transformação dos dados**: Preparação dos dados para o modelo, envolvendo etapas com normalização, codificação de variáveis categóricas, dentre outras.
     * **Modelos de Regressão**: Diferentes modelos de regressão (LinearRegressiom, KNeighborsRegressor, DummyRegressor) são treinados, avaliados e usados para fazer predição de dados. São calculados métricas como MAE, MDE e R².
     * **Modelos de Classificação**: Diferentes modelos de Classificação (LogisticRegression, KNeighborsClassifier) são treinados, avaliados e udados para fazer predição. São calculados métricas como precisão, recall, F1-score.
-    * **Modelo de Agrupamento**: Uso do K-Médias para agrupar os dados ao seu grupo mais próximo e identificação do perfil dos dados.Uso do método do cotovelo, centroídes e estudo de clusters.
+    * **Modelo de Agrupamento**: Uso do K-Médias para agrupar os dados ao seu grupo mais próximo e identificação do perfil dos dados. Uso do método do cotovelo, centróides e estudo de clusters.
     * **Insights**: Resumo dos insights gerados durante o desenvolvimento dos modelos e sugestão de melhorias.
 
 ## 🗂️ Organização dos Diretórios:
