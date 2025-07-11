@@ -5,6 +5,7 @@
 ## 👀 Introdução: 
 
 Esse projeto traz dados sobre aluguéis de Imóveis em Nova York com o objetivo principal de criar um modelo de predição de preço. Os dados atrás diferentes atributos que impactam no preço dos imóveis, e com esses dados foi passado por etapas de pré-processamento de dados , análise exploratória e criação de modelos preditivos (regressão, classificação e agrupamento) para geração de insights.
+[Apresentação do Projeto](https://desempenho-estudantil-sql.my.canva.site/apresenta-o-financeira-amarelo-negrito-formas-relat-rio-de-finan-as)
 
 ## 💡 Estrutura do Projeto:
 
